@@ -1574,15 +1574,15 @@ article:last-child {
     width: 100%;
 }
 
-.image.avatar50 {
-    width: 50px;
-    height: 50px;
+.image.avatar58 {
+    width: 58px;
+    height: 58px;
     background: transparent;
 }
 
-.image.avatar50 img {
-    width: 50px;
-    height: 50px;
+.image.avatar58 img {
+    width: 58px;
+    height: 58px;
 }
 
 .image.fit {
